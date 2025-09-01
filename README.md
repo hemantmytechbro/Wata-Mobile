@@ -1,1 +1,1 @@
-# Wata-Mobile
+# wata-uganda
