@@ -1,0 +1,6 @@
+module Pods_wata_wataTests {
+  umbrella header "Pods-wata-wataTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
