@@ -1,0 +1,111 @@
+# ===============================
+# React Native - General
+# ===============================
+node_modules/
+npm-debug.log
+yarn-error.log
+*.log
+
+# Metro bundler cache
+.expo/
+.expo-shared/
+metro-cache/
+react-native-packager-cache-*
+react-packager-cache-*
+
+# Watchman
+.watchmanconfig
+
+# dotenv files
+.env
+.env.*
+
+# ===============================
+# iOS
+# ===============================
+ios/Pods/
+ios/build/
+ios/DerivedData/
+ios/*.xcworkspace
+ios/*.xcodeproj/project.xcworkspace/
+ios/*.xcodeproj/xcuserdata/
+ios/*.xcodeproj/xcshareddata/
+ios/.bundle
+
+# Xcode
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+
+# iOS Archives
+*.xcarchive
+
+# SwiftPM
+ios/.build/
+ios/Package.resolved
+
+# CocoaPods
+ios/Pods/
+ios/Podfile.lock
+
+# Hermes
+ios/**/hermes-engine/
+
+# ===============================
+# Android
+# ===============================
+android/.gradle/
+android/app/build/
+android/build/
+*.iml
+.gradle/
+local.properties
+android/.idea/
+android/.cxx/
+
+# Android Studio/IntelliJ
+*.idea/
+*.iws
+*.ipr
+*.iml
+.idea/
+
+# keystore files
+*.jks
+*.keystore
+
+# ===============================
+# macOS/Linux/Windows
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Git
+# ===============================
+*.orig
+*.swp
+*.swo
+*.swn
+
+# ===============================
+# LFS
+# ===============================
+.gitattributes
+
+# ===============================
+# Test / Coverage
+# ===============================
+coverage/
+jest-cache/
+jest-output/
+.nyc_output/

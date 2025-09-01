@@ -1,6 +1,0 @@
-module Pods_wata {
-  umbrella header "Pods-wata-umbrella.h"
-
-  export *
-  module * { export * }
-}
