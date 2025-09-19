@@ -67,10 +67,13 @@ android/.gradle/
 android/app/build/
 android/build/
 *.iml
-.gradle/
+.gradle
 local.properties
 android/.idea/
 android/.cxx/
+.cxx
+Debug
+
 
 # Android Studio/IntelliJ
 *.idea/

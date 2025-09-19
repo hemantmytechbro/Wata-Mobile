@@ -1,4 +1,0 @@
-/Users/hemantsati/Desktop/Wata-Mobile/android/app/.cxx/Debug/g1k32493/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
-/Users/hemantsati/Desktop/Wata-Mobile/android/app/.cxx/Debug/g1k32493/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
-/Users/hemantsati/Desktop/Wata-Mobile/android/app/.cxx/Debug/g1k32493/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
-/Users/hemantsati/Desktop/Wata-Mobile/android/app/.cxx/Debug/g1k32493/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
